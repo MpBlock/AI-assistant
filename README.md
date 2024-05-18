@@ -4,6 +4,8 @@
 First step: install libraries 
 - pip install pyttsx3
 - pip install wikipedia
+- pip intall openCV-python
+- pip install serial
   
 Second step: copy cody
 
