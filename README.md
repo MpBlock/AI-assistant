@@ -1,4 +1,4 @@
-# AI-assistant
+# ChatBot
 
 ## Installation
 First step: install libraries 
